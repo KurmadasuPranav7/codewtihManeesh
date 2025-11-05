@@ -44,7 +44,7 @@ export default function App() {
       <main className="main-content">
         <div className="container">
           <div className="hero-section">
-            <h2>A "codewithManeesh" verison 😊</h2>
+            <h2>A "codewithManeesh" version 😊</h2>
           </div>
 
           <div className="calculator-card">
